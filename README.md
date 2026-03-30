@@ -1,5 +1,5 @@
 # 💫 Sobre mi
-Desarrollador Full Stack con experiencia en la creación de aplicaciones web dinámicas utilizando React, Bootstrap y JavaScript en el front-end, y conocimiento sólido de Python y SQL en el back-end. Orientado a la resolución de problemas, la optimización de procesos y el desarrollo de soluciones eficientes y escalables.
+Desarrollador Full Stack con experiencia en la creación de aplicaciones dinámicas utilizando React, Angular, Vue, Node, Bootstrap, Tailwind, Typescript y JavaScript en el front-end, y conocimiento sólido de Python, C#, .NET y SQL en el back-end. Orientado a la resolución de problemas, la optimización de procesos y el desarrollo de soluciones eficientes y escalables.
 <br>
 Además, quiero empezar a trabajar en cualquier empleo que me ayude a crecer como desarrollador y a adquirir la experiencia de trabajar con un gran equipo.
 
